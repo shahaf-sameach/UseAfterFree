@@ -1,4 +1,4 @@
-## Use After Free vulnerablity
+## Use After Free 
 
 
 run the following cmds
